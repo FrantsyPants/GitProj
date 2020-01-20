@@ -27,3 +27,9 @@ KiwiBird_Levi
 Bison_Levi
 Salmon_Levi
 Turtle_Levi
+
+turtle_rimple
+lizard_rimple
+dino_rimple
+frogs_rimple
+shark_rimple
