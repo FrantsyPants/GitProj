@@ -9,18 +9,21 @@ Dodo_Derek
 Alligator_Derek
 BulletAnt_Derek
 Hyena_Derek
+dinosaurs_derek
 
 Cole_Cod
 Cole_Penguin
 Cole_Leopard
 Cole_Worm
 Cole_Snake
+frogs_cole
 
 BullShark_Tristan
 Tiger_Tristan
 Flamingo_Tristan
 GrassHopper_Tristan
 Cobra_Tristan
+turtles_tristian
 
 Ant_Levi
 KiwiBird_Levi
@@ -28,8 +31,14 @@ Bison_Levi
 Salmon_Levi
 Turtle_Levi
 
-turtle_rimple
-lizard_rimple
-dino_rimple
-frogs_rimple
+sharks_rimple
+Rimple_Swordfish
+Rimple_Homosapiens
+Rimple_Sparrow
 shark_rimple
+
+sharks_rimple
+Rimple_Sparrow
+Rimple_Swordfish
+Rimple_Crocodile
+Rimple_honeybee
