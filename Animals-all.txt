@@ -42,3 +42,10 @@ Rimple_Sparrow
 Rimple_Swordfish
 Rimple_Crocodile
 Rimple_honeybee
+
+cat_Alex
+alex_dog
+Alex_Crow
+Alex_goldfish
+Alex_Hornet
+Alex_Iguana
