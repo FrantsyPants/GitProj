@@ -1,5 +1,5 @@
 sharks_rimple
-turtles_rimple
-frogs_rimple
-lizards_rimple
-dinosaurs_rimple
+turtles_tristian
+frogs_cole
+lizards_conner
+dinosaurs_derek
